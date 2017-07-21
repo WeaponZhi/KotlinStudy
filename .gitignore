@@ -11,3 +11,6 @@ untitled.iml
 /build/
 /.gradle/
 /.idea/
+/.idea/modules/Chapter1_main.iml
+/.idea/modules/Chapter1_test.iml
+/.idea/modules/Chapter1.iml
